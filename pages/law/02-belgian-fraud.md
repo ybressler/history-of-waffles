@@ -10,6 +10,14 @@ layout: statement
 # Plot twist: "Belgian waffles" aren't Belgian
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gaufre_liégeoise_-_Waffle_Liège.jpg/1920px-Gaufre_liégeoise_-_Waffle_Liège.jpg
+---
+
+# `Real Liège Waffle from Belgium`
+*The actual Belgian waffle - not what Americans call "Belgian waffles"*
+
+---
 layout: fact
 ---
 ## The Inconvenient Truth

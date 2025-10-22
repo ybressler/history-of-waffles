@@ -18,6 +18,16 @@ layout: fact
 **Evidence that waffle culture was already well-developed**
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Waffle_irons_Morges.jpg/1920px-Waffle_irons_Morges.jpg
+---
+
+# `Historical Waffle Irons`
+*Museum Collection, Switzerland*
+
+Intricate cast iron waffle makers - expensive tools requiring skilled blacksmiths
+
+---
 layout: fact
 ---
 ## 1400-1650: The Golden Age

@@ -12,6 +12,16 @@ layout: statement
 This history cannot be told without acknowledging the cost
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Slaves_reco.jpg/1920px-Slaves_reco.jpg
+---
+
+# `Cutting the Sugar Cane, Antigua`
+*William Clark (1823)*
+
+Enslaved people cutting sugar cane - the brutal reality behind cheap sugar
+
+---
 layout: fact
 ---
 ## The Caribbean Sugar Plantation System

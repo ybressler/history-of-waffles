@@ -12,6 +12,16 @@ layout: statement
 Liquid + Flavor + Leavening
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jan_Steen_-_The_Village_Wedding_-_Google_Art_Project.jpg/1920px-Jan_Steen_-_The_Village_Wedding_-_Google_Art_Project.jpg
+---
+
+# `The Village Wedding`
+*Jan Steen (1653)*
+
+Beer was central to Dutch life - celebrations, daily meals, and cooking
+
+---
 layout: fact
 ---
 ## Function 1: Liquid 💧

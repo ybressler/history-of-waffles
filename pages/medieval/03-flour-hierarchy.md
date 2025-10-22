@@ -10,6 +10,16 @@ layout: statement
 # White flour was literally a status symbol
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Different_flours.jpg/1920px-Different_flours.jpg
+---
+
+# `Different Types of Flour`
+*From dark whole grain to refined white flour*
+
+The color and texture of flour determined your social class
+
+---
 layout: fact
 ---
 ## Rye Flour (Peasant staple)
