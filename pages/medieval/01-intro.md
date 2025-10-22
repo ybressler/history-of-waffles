@@ -15,25 +15,14 @@ layout: fact
 ---
 ## What Makes This Period Special?
 
-**All five essential requirements came together:**
+**All five essential requirements finally converged:**
 
-1. **Metal waffle irons** - Blacksmiths perfecting the craft
-2. **Urban environments** - Growing cities with markets
-3. **Surplus ingredients** - Trade bringing new luxuries
-4. **Street food culture** - Vendors selling hot treats
-5. **A middle class** - People with money for indulgences
+- Blacksmiths perfecting specialized waffle irons
+- Growing cities creating markets and customers
+- Trade networks bringing surplus ingredients
+- **The Low Countries became the epicenter**
 
----
-layout: image-right
-image: https://upload.wikimedia.org/wikipedia/commons/1/12/François_Eisen_-_A_young_woman_selling_waffles.jpg
----
-
-# Street Waffle Vendors
-
-*"A young woman selling waffles"*
-François Eisen (1762)
-
-A common sight in European towns and cities
+**This is where waffles as we know them were born**
 
 ---
 layout: statement

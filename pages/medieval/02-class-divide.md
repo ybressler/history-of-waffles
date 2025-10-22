@@ -46,7 +46,7 @@ layout: two-cols
 
 ::right::
 
-# The Result
+# Peasant Waffle Result
 
 **Characteristics:**
 - Dense, grainy, cracker-like
@@ -103,7 +103,7 @@ layout: two-cols
 
 ::right::
 
-# The Result
+# Merchant Waffle Result
 
 **Much better:**
 - Richer, more tender texture

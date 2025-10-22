@@ -82,14 +82,13 @@ layout: fact
 ---
 ## Why the Low Countries?
 
-**All five requirements converged:**
-- Skilled blacksmiths for waffle irons
-- Thriving urban markets
-- Trade bringing surplus ingredients
-- Strong street food culture
-- Growing middle class
+**The perfect convergence:**
+- All five essential requirements met
+- **Plus** beer culture for leavening innovation
+- Strong culinary tradition
+- Central location for trade
 
-**Plus beer culture and culinary innovation**
+**The birthplace of modern waffle culture**
 
 ---
 layout: statement
