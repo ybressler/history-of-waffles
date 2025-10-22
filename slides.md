@@ -29,7 +29,17 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/03/Circle_of_Georg_Flege
 *Circle of Georg Flegel (c. 1650)*
 
 ---
-src: ./pages/1-ancient-origins.md
+src: ./pages/00-what-is-a-waffle.md
+hide: false
+---
+
+---
+src: ./pages/0-prehistoric-origins.md
+hide: false
+---
+
+---
+src: ./pages/0.5-ancient-origins.md
 hide: false
 ---
 

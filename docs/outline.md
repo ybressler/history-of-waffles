@@ -2,6 +2,22 @@
 The purpose of this document is to provide claude code with an outline for generating
 the "History of Waffles" documentation site.
 
+# 0. What is a waffle?
+
+## The Five Essential Requirements
+
+**A waffle needs these elements to exist:**
+1. **Metal waffle irons** - Requires blacksmiths, expensive specialized equipment
+2. **Urban environment** - Street markets, trade networks, concentrated customers
+3. **Surplus ingredients** - Flour, liquid, enrichments (eggs, butter, sweeteners)
+4. **Street food culture** - Mobile vendors, fresh hot food, social eating
+5. **A middle class** - People with disposable income for treats
+
+## Why Medieval Europe? (1200s-1600s)
+These five elements all came together in growing medieval cities, especially the Dutch/Belgian Low Countries.
+**Bottom line:** Waffles are fundamentally urban, commercial food - they emerged when cities, metalworking, trade, and a middle class converged.
+
+
 # 1. Prehistoric origins
 This section (and the next) is covered in detail in @docs/prehistoric-waffles.md
 
