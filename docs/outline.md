@@ -36,7 +36,7 @@ Placeholder for content about how the sugar trade influenced waffle recipes and 
 Yah.
 
 # 6. Thomas Jefferson and Waffles
-TJ brought waffles to America from France.
+Located in @thomas-jefferson-waffles.md
 
 # 7. Waffle Irons and Industrialization
 Placeholder for content about the invention of waffle irons and their impact during the Industrial Revolution.
@@ -53,7 +53,7 @@ Let's make this weird.
 # 11. Waffles and architecture
 
 # 12. Waffles and law
-Give a few absurd court cases involving waffles
+Expanded in @waffles-and-law.md
 
 
 # 13. Waffles in conflict

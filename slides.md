@@ -49,6 +49,11 @@ hide: false
 ---
 
 ---
+src: ./pages/3-sugar-trade.md
+hide: false
+---
+
+---
 src: ./pages/3-waffle-iron-evolution.md
 hide: false
 ---
