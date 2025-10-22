@@ -43,3 +43,13 @@ They emerged when cities, metalworking, trade, and a middle class converged.
 Not a peasant food. Not a home-cooked meal.
 
 **A product of civilization itself.**
+
+---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Waffles_with_Strawberries.jpg/1920px-Waffles_with_Strawberries.jpg
+---
+
+# `Modern Belgian-Style Waffles`
+*The culmination of centuries of culinary evolution*
+
+From medieval honey-sweetened treats to today's breakfast staple

@@ -5,6 +5,16 @@ layout: section
 The sweetness divide
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Honeycomb_with_honey.jpg/1920px-Honeycomb_with_honey.jpg
+---
+
+# `Honeycomb`
+*Traditional sweetener for merchant waffles*
+
+Honey was valuable - peasants sold it rather than eating it
+
+---
 layout: statement
 ---
 # Peasant waffles were completely unsweetened

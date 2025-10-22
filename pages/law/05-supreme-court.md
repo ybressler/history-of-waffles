@@ -12,6 +12,16 @@ layout: statement
 And it matters
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Supreme_Court_Front_Dusk.jpg/1920px-Supreme_Court_Front_Dusk.jpg
+---
+
+# `United States Supreme Court`
+*Where waffle employment law was decided*
+
+EEOC v. Waffle House, Inc. (2002)
+
+---
 layout: fact
 ---
 ## The Background

@@ -63,6 +63,16 @@ layout: fact
 **This is when waffles truly transformed**
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ten_Views_in_the_Island_of_Antigua_Plate_VIII_-_Boiling_House.jpg/1920px-Ten_Views_in_the_Island_of_Antigua_Plate_VIII_-_Boiling_House.jpg
+---
+
+# `Sugar Boiling House, Antigua`
+*William Clark (1823)*
+
+The industrial process of sugar refining - made possible by enslaved labor
+
+---
 layout: fact
 ---
 ## 1750-1850: Peak Production

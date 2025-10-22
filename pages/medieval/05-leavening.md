@@ -5,6 +5,16 @@ layout: section
 How to make waffles rise before baking powder?
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sourdough_loaves_2019_01.jpg/1920px-Sourdough_loaves_2019_01.jpg
+---
+
+# `Natural Leavening`
+*Wild yeast creates bubbles and rise*
+
+Medieval bakers used beer's wild yeast the same way
+
+---
 layout: statement
 ---
 # Baking powder wasn't invented until 1843

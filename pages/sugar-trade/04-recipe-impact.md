@@ -5,6 +5,14 @@ layout: section
 How sugar changed everything
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Belgian_Liège_waffles.jpg/1920px-Belgian_Liège_waffles.jpg
+---
+
+# `Belgian Liège Waffles`
+*Pearl sugar embedded in the dough - only possible with cheap sugar*
+
+---
 layout: statement
 ---
 # Cheaper sugar = sweeter waffles = new traditions

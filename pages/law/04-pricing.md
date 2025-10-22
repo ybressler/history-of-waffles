@@ -5,6 +5,14 @@ layout: section
 Waffle House and the phantom price
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Waffle_house_credit_card.jpg/1920px-Waffle_house_credit_card.jpg
+---
+
+# `Waffle House`
+*American icon... and litigation magnet*
+
+---
 layout: fact
 ---
 ## The Allegation (2022)
