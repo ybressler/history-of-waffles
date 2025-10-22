@@ -79,6 +79,11 @@ hide: false
 ---
 
 ---
+src: ./pages/8-waffles-law.md
+hide: false
+---
+
+---
 layout: end
 ---
 
