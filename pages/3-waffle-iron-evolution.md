@@ -16,6 +16,18 @@ layout: fact
 Elaborate designs and family crests appeared on waffle irons
 
 ---
+layout: image-right
+image: https://upload.wikimedia.org/wikipedia/commons/9/9e/Alexander_Hugo_Bakker_Korff_-_%27De_wafelbakster%27.jpg
+---
+
+# The Waffle Maker's Art
+
+*"De wafelbakster"* (The Waffle Baker)
+Alexander Hugo Bakker Korff (c. 1850-1882)
+
+Traditional waffle making with heated iron plates
+
+---
 layout: statement
 ---
 # Each family had their own unique waffle pattern

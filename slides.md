@@ -21,6 +21,14 @@ From Ancient Grains to Modern Grids
 </div>
 
 ---
+layout: image
+image: https://upload.wikimedia.org/wikipedia/commons/0/03/Circle_of_Georg_Flegel_Still_life_with_waffles.jpg
+---
+
+# `Still Life with Waffles`
+*Circle of Georg Flegel (c. 1650)*
+
+---
 src: ./pages/1-ancient-origins.md
 hide: false
 ---
@@ -42,6 +50,16 @@ hide: false
 
 ---
 src: ./pages/5-modern-era.md
+hide: false
+---
+
+---
+src: ./pages/6-international-variations.md
+hide: false
+---
+
+---
+src: ./pages/7-culture-and-fun-facts.md
 hide: false
 ---
 
